@@ -16,7 +16,3 @@ This interactive Excel dashboard analyzes sales executive performance across dif
 - Pivot Charts
 - Slicers
 
-## Dashboard Preview
-
-![Dashboard Preview]
-(Dashboard_Screenshot.png)
